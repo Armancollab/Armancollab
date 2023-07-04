@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<iframe src="https://giphy.com/embed/ADSJHOoIvyjKM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/naruto-manga-ADSJHOoIvyjKM">via GIPHY</a></p>
-
+<img src="https://giphy.com/embed/ADSJHOoIvyjKM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></><a href="https://giphy.com/gifs/naruto-manga-ADSJHOoIvyjKM"></a>
 <a href="https://www.instagram.com/_rmnaf/">
   <img height="50" src="insta.png"/>
 </a>
