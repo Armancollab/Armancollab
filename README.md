@@ -16,7 +16,7 @@
 </a>
 
 ```yaml
-* class Arman:
+ class Arman:
     pass
 
 class Attributes(Arman):
@@ -43,5 +43,5 @@ class Attributes(Arman):
         specialities = ['web development', 'full stack']
         environment = ['VS Code']
         
-        return langs, specialities, environment *
+        return langs, specialities, environment 
 ```
