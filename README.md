@@ -63,13 +63,19 @@ class Attributes(Arman):
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"align="center" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    <p align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" />
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <p align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" />
+    </p>
+  </div>
+</div>
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github.com/Armancollab/Armancollab/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
