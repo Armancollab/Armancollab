@@ -14,3 +14,34 @@
 <a href="https://ArmanCollab.github.io">
   <img height="50" src="web.png"/>
 </a>
+
+```yaml
+* class Arman:
+    pass
+
+class Attributes(Arman):
+    @staticmethod
+    def contact() -> tuple:
+        telegram = "devnull9"
+        github = "ArmanCollab"
+        
+        return telegram, github
+
+    @staticmethod
+    def life() -> tuple:
+        langs = ['Persian', 'English']
+        age = 18
+        
+        return langs, age
+
+    @staticmethod
+    def coding() -> tuple:
+        langs = {
+            'intermediate': ['Python'],
+            'learning': ['JavaScript']
+        }
+        specialities = ['web development', 'full stack']
+        environment = ['VS Code']
+        
+        return langs, specialities, environment *
+```
