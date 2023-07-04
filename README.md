@@ -64,13 +64,13 @@ class Attributes(Arman):
 </p>
 
 <div style="display: flex;">
-  <div style="flex: 1;">
+  <div style="flex: 1; margin-right: 10px;">
     <p align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" />
     </p>
   </div>
-  <div style="flex: 1;">
-    <p align="right">
+  <div style="flex: 1; margin-left: 10px;">
+    <p align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" />
     </p>
   </div>
