@@ -22,7 +22,7 @@
   </a>
 </p>
 
-```python
+``` yaml python
 class Arman:
     pass
 
@@ -51,7 +51,7 @@ class Attributes(Arman):
         specialities = ['web development', 'full stack']
         environment = ['VS Code']
         
-        return langs, specialities, environment
+        return langs, specialities, environment yaml ```
 
 <h2> 🚀 &nbsp;Skills</h2>
 <p align="left">
