@@ -33,17 +33,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" align="center" />
 </p>
 
+<div style="display: flex;">
   <div style="flex: 1;">
-    <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="height: 50%; width:20%" display:inline; />
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <p align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="height: 50%; width:40%; display:inline;" />
-    </p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 100%; height: auto;">
   </div>
 </div>
+
 
 <p align="center">
   <img src="https://github.com/Armancollab/Armancollab/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
