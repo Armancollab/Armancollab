@@ -42,6 +42,38 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages">
 </div>
 
+``` yaml
+class Arman:
+    pass
+
+
+class Attributes(Arman):
+    @staticmethod
+    def contact() -> tuple:
+        telegram = "devnull9"
+        github = "ArmanCollab"
+        
+        return telegram, github
+
+    @staticmethod
+    def life() -> tuple:
+        langs = ['Persian', 'English']
+        age = 18
+        
+        return langs, age
+
+    @staticmethod
+    def coding() -> tuple:
+        langs = {
+            'intermediate': ['Python'],
+            'learning': ['JavaScript']
+        }
+        specialities = ['web development', 'full stack']
+        environment = ['VS Code']
+        
+        return langs, specialities, environment
+ ```
+
 <p align="center">
   <img src="https://github.com/Armancollab/Armancollab/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
