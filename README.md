@@ -35,7 +35,7 @@
 
   <div style="flex: 1;">
     <p align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="height: 50%; width:50%" display:inline; />
+      <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="height: 50%; width:20%" display:inline; />
     </p>
   </div>
   <div style="flex: 1;">
