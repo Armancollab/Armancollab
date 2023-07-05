@@ -33,11 +33,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" align="center" />
 </p>
 
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1; margin-right: 10px; display: flex; justify-content: flex-end;">
+<div>
+  <div style="position:center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 50%; height: auto;">
   </div>
-  <div style="flex: 1; margin-left: 10px; display: flex; justify-content: flex-start;">
+  <div style="position:center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 45%; height: auto;">
   </div>
 </div>
