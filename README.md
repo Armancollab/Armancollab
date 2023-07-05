@@ -35,12 +35,13 @@
 
 <div style="display: flex;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 75%; height: auto;">
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 100%; height: auto;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 75%; height: auto;">
   </div>
 </div>
+
 
 
 <p align="center">
