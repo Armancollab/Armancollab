@@ -38,8 +38,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 50%; height: 50%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 45%; height: auto;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages">
 </div>
 
 <p align="center">
