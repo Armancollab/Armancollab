@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="Itachi.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
-  </a>
+  <img src="Itachi.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
 <h2 align="center">🚀 Skills</h2>
@@ -38,9 +37,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" >
+  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages">
 </div>
+
 
 ``` yaml
 class Arman:
@@ -72,8 +72,9 @@ class Attributes(Arman):
         environment = ['VS Code']
         
         return langs, specialities, environment
- ```
+```
 
 <p align="center">
   <img src="https://github.com/Armancollab/Armancollab/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
