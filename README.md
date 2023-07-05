@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://giphy.com/gifs/naruto-manga-ADSJHOoIvyjKM">
-    <img src="https://giphy.com/embed/ADSJHOoIvyjKM" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+    <img src="Itachi.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
   </a>
 </p>
 
