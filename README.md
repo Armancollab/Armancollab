@@ -8,6 +8,8 @@
   </a>
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31shk3ad5ukmc6alh7dxadtccndy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <p align="center">
   <a href="https://www.instagram.com/_rmnaf/">
