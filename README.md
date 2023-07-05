@@ -39,8 +39,8 @@
     </p>
   </div>
   <div style="flex: 1;">
-    <p align="right" style="height: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="height: 100%;" />
+    <p align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="height: 50%; width:50%" />
     </p>
   </div>
 </div>
