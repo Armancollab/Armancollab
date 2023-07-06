@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/callback?code=AQD0Q06cKRTUX2-pd5NBxnS6e5IfT5tXNmT43cSDtvKQBHe1WBr7jN19hgl1qx-Ojk4NEeYWMov3KJdFxdvjK1_IXF0OWvVzTQVMkm6nbMoh9PBp4wtEctP_bHmiMsJjoCDRHYwzTkNt-7lHoxPmag8Kquxj4uZ7XcHLyn4-TfqDSt7TauEmZbyBtnVxRu9iGC-b4vmkfGs-gk_vJLuTSi-6LHeygeP_JS7NyGLXqsfA7oPaKD6Rq0fwVYzjSwkAX50iCh4jBb87DUUQHYeFirM-" />
+    <img src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31shk3ad5ukmc6alh7dxadtccndy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)" />
   </a>
 </p>
 
