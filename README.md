@@ -37,9 +37,10 @@
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31shk3ad5ukmc6alh7dxadtccndy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31uiu4yv7zgddelzxxejrbshy6h4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=6dceee&bar_color_cover=false" />
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats">
