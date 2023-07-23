@@ -26,6 +26,37 @@
   </a>
 </div>
 
+```
+class Attributes(Arman):
+	@staticmethod
+	def contact() -> tuple:
+	    github  = "Armancollab"
+	    telegram = "t.me/devnull9"
+	    twitter   = "_rmnaf7"
+	    
+	    return github, telegram, twitter
+	
+	@staticmethod
+	def life() -> tuple:
+		langs         = ['English', 'Persian']
+		age           = 18
+		
+		return langs, age
+	
+	@staticmethod
+	def coding() -> tuple:
+		langs = {
+			'Master':   ['python'],
+			'intermediate': ['html', 'css'],
+			'learning': ['django']
+		}
+		specialities  = ['cyber security', 'fullstack']
+		environnement = ['vscode']
+		
+		return langs, specialities, environnement
+```
+
+
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" align="center" />
