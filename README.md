@@ -68,10 +68,10 @@ class Attributes(Arman):
 
 
 <div align="center">
-  <div style="width: 200px; height: 100px; margin: 10px;">
+  <div style="width: 100px; height: 50px; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
-  <div style="width: 200px; height: 100px; margin: 10px;">
+  <div style="width: 100px; height: 50px; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 </div>
