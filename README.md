@@ -68,7 +68,8 @@ class Attributes(Arman):
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="flex: 1; max-width: 45%; margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="flex: 1; max-width: 45%; margin: 10px;">
 </div>
+
 
