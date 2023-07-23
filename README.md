@@ -54,7 +54,7 @@ class Attributes(Arman):
         environnement = ['vscode']
         
         return langs, specialities, environnement
-
+```
 
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
