@@ -65,18 +65,6 @@ class Attributes(Arman):
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" align="center" />
 </p>
 
-
-
-<div align="center" style="max-width: 400px; margin: 0 auto;">
-  <div style="width: 180px; height: 120px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
-  <div style="width: 180px; height: 120px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats">
 </div>
-
-
-
-
-
