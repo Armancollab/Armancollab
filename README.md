@@ -26,35 +26,34 @@
   </a>
 </div>
 
-``` yaml
+```python
 class Attributes(Arman):
-	@staticmethod
-	def contact() -> tuple:
-	    github  = "Armancollab"
-	    telegram = "t.me/devnull9"
-	    twitter   = "_rmnaf7"
-	    
-	    return github, telegram, twitter
-	
-	@staticmethod
-	def life() -> tuple:
-		langs         = ['English', 'Persian']
-		age           = 18
-		
-		return langs, age
-	
-	@staticmethod
-	def coding() -> tuple:
-		langs = {
-			'Master':   ['python'],
-			'intermediate': ['html', 'css'],
-			'learning': ['django']
-		}
-		specialities  = ['cyber security', 'fullstack']
-		environnement = ['vscode']
-		
-		return langs, specialities, environnement
-```
+    @staticmethod
+    def contact() -> tuple:
+        github = "Armancollab"
+        telegram = "t.me/devnull9"
+        twitter = "_rmnaf7"
+        
+        return github, telegram, twitter
+    
+    @staticmethod
+    def life() -> tuple:
+        langs = ['English', 'Persian']
+        age = 18
+        
+        return langs, age
+    
+    @staticmethod
+    def coding() -> tuple:
+        langs = {
+            'Master': ['python'],
+            'intermediate': ['html', 'css'],
+            'learning': ['django']
+        }
+        specialities = ['cyber security', 'fullstack']
+        environnement = ['vscode']
+        
+        return langs, specialities, environnement
 
 
 <h2 align="center">🚀 Skills</h2>
