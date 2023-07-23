@@ -67,14 +67,15 @@ class Attributes(Arman):
 
 
 
-<div align="center">
-  <div style="max-width: 50%; height: 200px; margin: 10px;">
+<div align="center" style="max-width: 600px; margin: 0 auto;">
+  <div style="width: 280px; height: 180px; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
-  <div style="max-width: 50%; height: 200px; margin: 10px;">
+  <div style="width: 280px; height: 180px; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armancollab" alt="Top Languages" style="width: 100%; height: 100%; object-fit: cover;">
   </div>
 </div>
+
 
 
 
