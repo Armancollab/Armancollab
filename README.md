@@ -1,4 +1,8 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/846304490852057088?theme=light&bg=809ecf&animated=false&showDisplayName=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...")](https://discord.com/users/846304490852057088)
+<p align="center">
+  <a href="https://discord.com/users/846304490852057088">
+    <img src="https://lanyard.cnrad.dev/api/846304490852057088?theme=light&bg=809ecf&animated=false&showDisplayName=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
+  </a>
+</p>
 
 <p align="center">👋 Hello, I'm Arman!</p>
 <p align="center">A passionate student from Afghanistan 🇦🇫</p>
