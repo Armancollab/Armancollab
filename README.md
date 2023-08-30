@@ -2,10 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20there!%F0%9F%95%B9%EF%B8%8F&animation=fadeIn&type=waving&color=gradient&height=100" />
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846304490852057088?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/846304490852057088)
-
 <p align="center">
-  <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846304490852057088?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/846304490852057088)" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <iframe src="https://lanyard-profile-readme.vercel.app/api/846304490852057088?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
 
 <p align="center">👋 Hello, I'm Arman!</p>
