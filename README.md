@@ -5,7 +5,7 @@
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846304490852057088?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/846304490852057088)
 
 <p align="center">
-  <img src="Itachi.gif" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src="[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846304490852057088?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/846304490852057088)" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </p>
 
 <p align="center">👋 Hello, I'm Arman!</p>
@@ -15,16 +15,16 @@
 
 <div align="center">
   <a href="https://www.instagram.com/_rmnaf/">
-    <img height="50" src="insta.png" />
+    <img height="50" src="./assets/insta.png" />
   </a>
   <a href="https://www.twitter.com/_rmnaf7/">
-    <img height="50" src="twitter.png" />
+    <img height="50" src="./assets/twitter.png" />
   </a>
   <a href="https://t.me/devnull9">
-    <img height="50" src="tg.png" />
+    <img height="50" src="./assets/tg.png" />
   </a>
   <a href="https://ArmanCollab.github.io">
-    <img height="50" src="web.png" />
+    <img height="50" src="./assets/web.png" />
   </a>
 </div>
 
