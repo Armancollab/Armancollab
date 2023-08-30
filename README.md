@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/846304490852057088?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...")](https://discord.com/users/846304490852057088)
+[![Discord Presence](https://lanyard.cnrad.dev/api/846304490852057088?theme=light&bg=809ecf&animated=false&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else...")](https://discord.com/users/846304490852057088)
 
 
 <p align="center">👋 Hello, I'm Arman!</p>
