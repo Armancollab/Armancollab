@@ -1,13 +1,15 @@
+![](https://komarev.com/ghpvc/?username=Armancollab&color=blueviolet)
+
 <p align="center">
   <a href="https://discord.com/users/846304490852057088">
     <img src="https://lanyard.cnrad.dev/api/846304490852057088?theme=light&bg=809ecf&animated=false&showDisplayName=true&hideDiscrim=false&borderRadius=20px&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" />
   </a>
 </p>
 
-<p align="center">👋 Hello, I'm Arman!</p>
-<p align="center">A passionate student from Afghanistan 🇦🇫</p>
-<p align="center">Currently learning Fullstack and Web Development</p>
-<p align="center">My dream is to leverage technology to empower the young generation and improve the tech landscape in my home country.</p>
+<p align="left">👋 Hello, I'm Arman!</p>
+<p align="left">A passionate student from Afghanistan 🇦🇫</p>
+<p align="left">Currently learning Fullstack and Web Development</p>
+<p align="left">My dream is to leverage technology to empower the young generation and improve the tech landscape in my home country.</p>
 
 <div align="center">
   <a href="https://www.instagram.com/_rmnaf/">
