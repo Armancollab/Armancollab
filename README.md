@@ -47,9 +47,9 @@ class Attributes(Arman):
         langs = {
             'Master': ['python'],
             'intermediate': ['html', 'css'],
-            'learning': ['django']
+            'learning': ['django', 'C++', 'javascript']
         }
-        specialities = ['cyber security', 'fullstack']
+        specialities = ['cyber security', 'fullstack', 'web development', 'linux']
         environnement = ['vscode']
 
         return langs, specialities, environnement
