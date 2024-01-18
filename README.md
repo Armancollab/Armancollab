@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/846304490852057088">
-    <img src="https://lanyard.cnrad.dev/api/846304490852057088?theme=light&bg=809ecf&animated=false&showDisplayName=true&hideDiscrim=false&borderRadius=20px&idleMessage=Working%20on%20something%20..." alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/846304490852057088?theme=light&bg=809ecf&animated=false&showDisplayName=true&hideDiscrim=false&borderRadius=20px&idleMessage=Working%20on%20something%20..." alt="Discord Presence" width="200" height="200" />
   </a>
 </p>
 
@@ -33,16 +33,16 @@ class Attributes(Arman):
         github = "Armancollab"
         telegram = "t.me/devnull9"
         twitter = "_rmnaf7"
-        
+
         return github, telegram, twitter
-    
+
     @staticmethod
     def life() -> tuple:
         langs = ['English', 'Persian']
         age = 18
-        
+
         return langs, age
-    
+
     @staticmethod
     def coding() -> tuple:
         langs = {
@@ -52,7 +52,7 @@ class Attributes(Arman):
         }
         specialities = ['cyber security', 'fullstack']
         environnement = ['vscode']
-        
+
         return langs, specialities, environnement
 ```
 
