@@ -6,22 +6,19 @@
 </p>
 
 <p align="left">👋 Hello, I'm Arman!</p>
-<p align="left">A passionate student from Afghanistan 🇦🇫</p>
-<p align="left">Currently learning Fullstack and Web Development</p>
-<p align="left">My dream is to leverage technology to empower the young generation and improve the tech landscape in my home country.</p>
+<p align="left">Full-Stack Developer from Kabul, Afghanistan 🇦🇫</p>
+<p align="left">Specializing in web development, artificial intelligence, and cybersecurity</p>
+<p align="left">I craft clean, minimal, and efficient solutions with a focus on user experience and technical excellence. My goal is to leverage technology to empower the young generation and improve the tech landscape in my home country.</p>
 
 <div align="center">
-  <a href="https://www.instagram.com/_rmnaf/">
-    <img height="50" src="./assets/insta.png" />
+  <a href="https://github.com/armancollab">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
   </a>
-  <a href="https://www.twitter.com/_rmnaf7/">
-    <img height="50" src="./assets/twitter.png" />
+  <a href="https://linkedin.com/in/armanmustamandyar">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
   </a>
-  <a href="https://t.me/devnull9">
-    <img height="50" src="./assets/tg.png" />
-  </a>
-  <a href="https://ArmanCollab.github.io">
-    <img height="50" src="./assets/web.png" />
+  <a href="https://ar0.vercel.app">
+    <img width="48" height="48" src="https://img.icons8.com/fluency/48/web.png" alt="web"/>
   </a>
 </div>
 
@@ -29,43 +26,51 @@
 class Attributes(Arman):
     @staticmethod
     def contact() -> tuple:
-        github = "Armancollab"
-        telegram = "t.me/devnull9"
-        twitter = "_rmnaf7"
+        github = "armancollab"
+        linkedin = "armanmustamandyar"
+        email = "arman.mustamandyar@auaf.edu.af"
 
-        return github, telegram, twitter
+        return github, linkedin, email
 
     @staticmethod
     def life() -> tuple:
         langs = ['English', 'Persian']
-        age = 18
+        age = 20
 
         return langs, age
 
     @staticmethod
     def coding() -> tuple:
         langs = {
-            'Master': ['python'],
-            'intermediate': ['html', 'css'],
-            'learning': ['django', 'C++', 'javascript']
+            'advanced': ['python', 'typescript', 'javascript'],
+            'intermediate': ['html', 'css', 'react', 'next.js', 'tailwind'],
+            'learning': ['react-native', 'expo', 'C++']
         }
-        specialities = ['cyber security', 'fullstack', 'web development', 'linux']
-        environnement = ['vscode']
+        specialities = ['web development', 'artificial intelligence', 'cybersecurity', 'linux']
+        environment = ['vscode', 'git']
 
-        return langs, specialities, environnement
+        return langs, specialities, environment
 ```
 
 <h2 align="center">🚀 Skills</h2>
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" align="center" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="tailwind" width="45" height="45" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" align="center" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45" align="center" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" align="center" />
 </p>
+
+## 🚀 Projects
+
+- **[Vanitas](https://vanitaas.vercel.app)** - A platform for reading stories (2025)
+- **[UniPlanner](https://uniplanner.vercel.app)** - Planner for university (2024)
+- **[Curify](https://curify.vercel.app)** - Patient management system (2024)
+- **[Codraft](https://codraft.vercel.app)** - Real-time collaborative document editor (2023)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats">
