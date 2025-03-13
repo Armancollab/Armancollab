@@ -8,7 +8,7 @@
 <p align="left">👋 Hello, I'm Arman!</p>
 <p align="left">Full-Stack Developer from Kabul, Afghanistan 🇦🇫</p>
 <p align="left">Specializing in web development, artificial intelligence, and cybersecurity</p>
-<p align="left">I craft clean, minimal, and efficient solutions with a focus on user experience and technical excellence. My goal is to leverage technology to empower the young generation and improve the tech landscape in my home country.</p>
+<p align="left">I craft clean, minimal, and efficient solutions with a focus on user experience and technical excellence. I like coding.</p>
 
 <div align="center">
   <a href="https://github.com/armancollab">
