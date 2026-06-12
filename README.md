@@ -1,9 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Armancollab\&color=blueviolet)
 
-<p align="center">
-  <img src="assets/ItachiUchiha.gif" width="650">
-</p>
-
 # /home/arman
 
 ```bash
@@ -20,8 +16,6 @@ Consumer of unreasonable amounts of Monster Energy
 ### Current Status
 
 ```yaml
-location: Kabul, Afghanistan
-
 focus:
   - AI Agents
   - Machine Learning
@@ -137,9 +131,3 @@ Theme     : Dark
 ---
 
 > "A machine is just a puzzle that hasn't been understood yet."
-
-<p align="center">
-  <a href="https://github.com/Armancollab">GitHub</a> •
-  <a href="https://linkedin.com/in/armanmustamandyar">LinkedIn</a> •
-  <a href="https://ar0.vercel.app">Website</a>
-</p>
