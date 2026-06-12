@@ -1,77 +1,145 @@
-![](https://komarev.com/ghpvc/?username=Armancollab&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Armancollab\&color=blueviolet)
 
 <p align="center">
-    <img src="assets/ItachiUchiha.gif" alt="Itachi Uchiha" />
-  </a>
+  <img src="assets/ItachiUchiha.gif" width="650">
 </p>
 
-<p align="left">👋 Hello, I'm Arman!</p>
-<p align="left">Full-Stack Developer from Kabul, Afghanistan 🇦🇫</p>
-<p align="left">Specializing in web development, artificial intelligence, and cybersecurity</p>
-<p align="left">I craft clean, minimal, and efficient solutions with a focus on user experience and technical excellence. I like coding.</p>
+# /home/arman
 
-<div align="center">
-  <a href="https://github.com/armancollab">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-  </a>
-  <a href="https://linkedin.com/in/armanmustamandyar">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>
-  </a>
-  <a href="https://ar0.vercel.app">
-    <img width="48" height="48" src="https://img.icons8.com/fluency/48/web.png" alt="web"/>
-  </a>
-</div>
+```bash
+$ whoami
 
-```python
-class Attributes(Arman):
-    @staticmethod
-    def contact() -> tuple:
-        github = "armancollab"
-        linkedin = "armanmustamandyar"
-        email = "arman.mustamandyar@auaf.edu.af"
-
-        return github, linkedin, email
-
-    @staticmethod
-    def life() -> tuple:
-        langs = ['English', 'Persian']
-        age = 20
-
-        return langs, age
-
-    @staticmethod
-    def coding() -> tuple:
-        langs = {
-            'advanced': ['python', 'typescript', 'javascript'],
-            'intermediate': ['html', 'css', 'react', 'next.js', 'tailwind'],
-            'learning': ['react-native', 'expo', 'C++']
-        }
-        specialities = ['web development', 'artificial intelligence', 'cybersecurity', 'linux']
-        environment = ['vscode', 'git']
-
-        return langs, specialities, environment
+Arman
+Developer
+Builder of questionable side projects
+Consumer of unreasonable amounts of Monster Energy
 ```
 
-<h2 align="center">🚀 Skills</h2>
+---
+
+### Current Status
+
+```yaml
+location: Kabul, Afghanistan
+
+focus:
+  - AI Agents
+  - Machine Learning
+  - Offensive Security
+  - Systems Programming
+
+state:
+  battery: 12%
+  monster_energy: required
+  sleep: unavailable
+```
+
+---
+
+### What You'll Find Here
+
+Most repositories start as:
+
+"this could be useful"
+
+and end as one of:
+
+* a working product
+* a research experiment
+* an abandoned prototype
+* a terrible idea that somehow works
+
+---
+
+### Character Build
+
+```python
+class Arman:
+
+    languages = [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "C++ (loading...)"
+    ]
+
+    interests = [
+        "AI",
+        "Machine Learning",
+        "Cybersecurity",
+        "Linux",
+        "Automation",
+        "Building Things"
+    ]
+
+    operating_system = "Linux"
+
+    energy_source = "Monster Energy"
+
+    philosophy = (
+        "Build first. Optimize later."
+    )
+```
+
+---
+
+### Side Quests
+
+```txt
+[✓] Build web apps
+[✓] Break things
+[✓] Fix things
+[✓] Train models
+[✓] Stay awake at 3AM debugging
+
+[ ] Finish every unfinished project
+```
+
+---
+
+### Uchiha Alignment
+
+```txt
+Naruto:  persistence
+Sasuke:  obsession with improvement
+Itachi:  overthinking architecture
+
+Result:
+mostly functional
+```
+
+---
+
+### Currently Exploring
+
+* AI Agents
+* Local LLMs
+* Machine Learning
+* Malware Analysis
+* Detection Engineering
+* Offensive Security Research
+* Windows Internals
+* Reverse Engineering
+
+---
+
+### Machine Stats
+
+```bash
+OS        : Linux
+Editor    : VS Code
+Shell     : bash
+Language  : Python
+Fuel      : Monster Energy
+Theme     : Dark
+```
+
+---
+
+> "A machine is just a puzzle that hasn't been understood yet."
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="tailwind" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45" align="center" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45" align="center" />
+  <a href="https://github.com/Armancollab">GitHub</a> •
+  <a href="https://linkedin.com/in/armanmustamandyar">LinkedIn</a> •
+  <a href="https://ar0.vercel.app">Website</a>
 </p>
-
-## 🚀 Projects
-
-- **[Vanitas](https://vanitaas.vercel.app)** - A platform for reading stories (2025)
-- **[UniPlanner](https://uniplanner.vercel.app)** - Planner for university (2024)
-- **[Curify](https://curify.vercel.app)** - Patient management system (2024)
-- **[Codraft](https://codraft.vercel.app)** - Real-time collaborative document editor (2023)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Armancollab&show_icons=true&theme=radical" alt="GitHub stats">
-</div>
